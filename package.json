@@ -1,0 +1,21 @@
+{
+  "name": "Image reverse search",
+  "version": "0.0.1",
+  "description": "discord bot",
+  "main": "reverse.js",
+  "scripts": {
+    "start": "node reverse.js"
+  },
+  "dependencies": {
+    "eris": "^0.11.2",
+
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
